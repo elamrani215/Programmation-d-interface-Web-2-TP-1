@@ -1,0 +1,14 @@
+
+
+/**---------------------------------------Références------------------------------------
+ * https://www.w3schools.com/jsref/jsref_filter.asp
+ * https://www.developpez.net/
+ * https://stackoverflow.com/questions/15145807/setting-the-overflow-property-with-javascript
+ * https://www.w3schools.com/jsref/prop_style_overflowy.asp
+ * https://grafikart.fr/tutoriels/wordpress
+ * https://runebook.dev/
+ * https://fontawesome.com/icons/cart-shopping?f=classic&s=solid
+ * https://www.youtube.com/@EcoleduWeb
+ * https://www.youtube.com/@NetNinja
+ * notes de cours
+ *-------------------------------------------------------------------------------------*/
